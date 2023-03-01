@@ -1,0 +1,11 @@
+/* Write your code here. */
+.bg-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #cb8805;
+}
